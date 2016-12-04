@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="items2">
+        <item >厘米</item>
+        <item >毫米</item>
+        <item >米</item>
+        <item >千米</item>
+    </string-array>
+</resources>
